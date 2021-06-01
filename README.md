@@ -12,8 +12,8 @@ Security
 Insights
 apyrobot/apy.json
 
-mdexSwap update apy.json
- 1 contributor
+SUPER-TOKENS-MiINING update apy.json
+ 
 404 lines (404 sloc)  12 KB
 {
   "minging": [
