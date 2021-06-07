@@ -1,4 +1,6 @@
 # SUPER-TOKENS-MINING
+https://github.com/P7-33/SUPER-TOKENS-MINING.wiki.git
+STM/Super-Token-Mining
 /
 apyrobot
 Code
