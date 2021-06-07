@@ -22,9 +22,9 @@ SUPER-TOKENS-MiINING update apy.json
     {
       "id": 1,
       "pool_id": 0,
-      "token0": "0x5d77B163dA453906030CEfC5016614ecFC6B922A",
+      "token0": "0xe92A52398E068941D9aC03E001e14aF636bcB2F3",
       "token1": "0x304Cd3750060E18c54eCa2716C6AC5f9c180ed73",
-      "alloc_mdx_amt": "77146907685090674440692",
+      "alloc_spm_amt": "77146907685090674440692",
       "total_quantity": "23934967861248396829976873417",
       "pool_quantity": "134800813486409780417840987",
       "alloc_point": "131",
@@ -35,9 +35,9 @@ SUPER-TOKENS-MiINING update apy.json
     {
       "id": 2,
       "pool_id": 1,
-      "token0": "0x5d77B163dA453906030CEfC5016614ecFC6B922A",
+      "token0": "0xe287F9B9C1759903840aC5B139739826535dA471",
       "token1": "0x5B84Ba9063116963c184C649F8B94a3B8Fe35b2f",
-      "alloc_mdx_amt": "118256739858274977816558",
+      "alloc_spm_amt": "118256739858274977816558",
       "total_quantity": "26367365051244914552618082208",
       "pool_quantity": "424370440105930154625204585",
       "alloc_point": "149",
@@ -50,7 +50,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 2,
       "token0": "0x841A913D3D82958c7C532154d2C15f92BD036145",
       "token1": "0xd34c38f81080f2dA928FDF149414D39F4CDfa1D1",
-      "alloc_mdx_amt": "128283312897442480380577",
+      "alloc_spm_amt": "128283312897442480380577",
       "total_quantity": "25741352620141545605866490748",
       "pool_quantity": "452625245637508608780010693",
       "alloc_point": "109",
@@ -61,9 +61,9 @@ SUPER-TOKENS-MiINING update apy.json
     {
       "id": 4,
       "pool_id": 3,
-      "token0": "0x85fEC816D2d84BAe79FEfa46e614D6BAa4306e66",
+      "token0": "0x2D170ce1F719476FeC1a92856cf632aE93444b41",
       "token1": "0xd34c38f81080f2dA928FDF149414D39F4CDfa1D1",
-      "alloc_mdx_amt": "158101950268690271967429",
+      "alloc_spm_amt": "158101950268690271967429",
       "total_quantity": "74354607302181997277557257056",
       "pool_quantity": "112809481903709145078474690",
       "alloc_point": "8734",
@@ -76,12 +76,12 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 4,
       "token0": "0x48c3F2c0CF1978b8c85e4736e7c6A8Fe2BdaA5D8",
       "token1": "0xd54774464c43971977426D68E4b25800e48e8aBE",
-      "alloc_mdx_amt": "65122209220743845790449",
+      "alloc_spm_amt": "65122209220743845790449",
       "total_quantity": "7658522405629849920344845278",
       "pool_quantity": "168294912216567304371985037",
       "alloc_point": "127",
       "apy": "8.250230608513172",
-      "symbol0": "MDX",
+      "symbol0": "SPM",
       "symbol1": "USDT"
     },
     {
@@ -128,7 +128,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 8,
       "token0": "0x613B4efb8B38C80b4545d390bdd964FdD86C75F7",
       "token1": "0xD9AB973c8D3f220268B02Ff2Bd40f7B44EcC5f94",
-      "alloc_mdx_amt": "28160953112870851151345",
+      "alloc_spm_amt": "28160953112870851151345",
       "total_quantity": "5733840632617564504111474732",
       "pool_quantity": "64900687720223807864154759",
       "alloc_point": "30",
@@ -141,7 +141,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 9,
       "token0": "0x066f86cdbE9dFCb10bDdB892B133a2E6ACd309e6",
       "token1": "0x5439291bD121C69EccAc5542E32751401Ac251FF",
-      "alloc_mdx_amt": "12871407640991013055475",
+      "alloc_spm_amt": "12871407640991013055475",
       "total_quantity": "5767218779009982891296198858",
       "pool_quantity": "12181909711254496759164750",
       "alloc_point": "220",
@@ -154,7 +154,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 10,
       "token0": "0x380347b99285a3c7fEE2489A0A6EF9cf018589F1",
       "token1": "0x2D170ce1F719476FeC1a92856cf632aE93444b41",
-      "alloc_mdx_amt": "2036201533344273119249",
+      "alloc_spm_amt": "2036201533344273119249",
       "total_quantity": "827511815679118312851645048",
       "pool_quantity": "4968445476310837275017284",
       "alloc_point": "4",
@@ -167,7 +167,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 11,
       "token0": "0xe92A52398E068941D9aC03E001e14aF636bcB2F3",
       "token1": "0x8d9Dc02b05A5714467E7ecD7c708518271943E5B",
-      "alloc_mdx_amt": "79931438304058444052984",
+      "alloc_spm_amt": "79931438304058444052984",
       "total_quantity": "15630888325486635480746660475",
       "pool_quantity": "482902338749113626690154816",
       "alloc_point": "40",
@@ -175,12 +175,13 @@ SUPER-TOKENS-MiINING update apy.json
       "symbol0": "HT",
       "symbol1": "USDT"
     },
+
     {
       "id": 13,
       "pool_id": 12,
       "token0": "0xB22100730E3B387D64d5eFf63500d2064Da27b12",
       "token1": "0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1",
-      "alloc_mdx_amt": "9418931978847208236467",
+      "alloc_spm_amt": "9418931978847208236467",
       "total_quantity": "8140624615572625064713152437",
       "pool_quantity": "13734836250136067028850530",
       "alloc_point": "90",
@@ -193,7 +194,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 13,0x132EEE7a8e6fafeeD51E78F1c1Ab104cB8498073
       "token0": "0xe92A52398E068941D9aC03E001e14aF636bcB2F3",
       "token1": "0xa2C94514AF2868363b5436AF66F64908FaCe4625",
-      "alloc_mdx_amt": "232649025632780448989",
+      "alloc_spm_amt": "232649025632780448989",
       "total_quantity": "940219258543180965259877060",
       "pool_quantity": "1550759753735665880744084",
       "alloc_point": "7",
@@ -206,7 +207,7 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 14,
       "token0": "0x132EEE7a8e6fafeeD51E78F1c1Ab104cB8498073",
       "token1": "0xa2C94514AF2868363b5436AF66F64908FaCe4625",
-      "alloc_mdx_amt": "365242159195688168515",
+      "alloc_spm_amt": "365242159195688168515",
       "total_quantity": "913389181163179837065557536",
       "pool_quantity": "912653701586628138676857",
       "alloc_point": "7",
@@ -232,12 +233,12 @@ SUPER-TOKENS-MiINING update apy.json
       "pool_id": 16,
       "token0": "0x304Cd3750060E18c54eCa2716C6AC5f9c180ed73",
       "token1": "0x5d77B163dA453906030CEfC5016614ecFC6B922A",
-      "alloc_mdx_amt": "21962385748098412754950",
+      "alloc_spm_amt": "21962385748098412754950",
       "total_quantity": "10727714646659001380522980562",
       "pool_quantity": "36928983297855996575886762",
       "alloc_point": "59",
-      "apy": "17.46642361474523",
-      "symbol0": "MDX",
+      "apy": "17.46642361474523"
+      "symbol0": "SPM",
       "symbol1": "HT"
     }
   ],
@@ -250,6 +251,7 @@ SUPER-TOKENS-MiINING update apy.json
       "symbol": "HBTC/USDT",
       "apy": 47.519169421151645
     },
+
     {
       "totalUsdtValue": 150736215.0317087,
       "tokenPriceInUsdt": 2677.789989527104,
@@ -296,7 +298,7 @@ SUPER-TOKENS-MiINING update apy.json
       "totalUsdtValue": 70627963.7126217,
       "tokenPriceInUsdt": 2.233304853158308,
       "poolWeight": 0.133,
-      "symbol": "MDX/USDT",
+      "symbol": "SPM/USDT",
       "apy": 120.690529874522
     },
     {
@@ -324,7 +326,7 @@ SUPER-TOKENS-MiINING update apy.json
       "totalUsdtValue": 26884890.70109369,
       "tokenPriceInUsdt": 2.2332973913038594,
       "poolWeight": 0.0171,
-      "symbol": "MDX/WHT",
+      "symbol": "SPM/WHT",
       "apy": 40.76487110115643
     },
     {
@@ -408,14 +410,14 @@ SUPER-TOKENS-MiINING update apy.json
       "totalUsdtValue": 5887476.448089252,
       "tokenPriceInUsdt": 37351.378369303304,
       "poolWeight": 0.0092,
-      "symbol": "HBTC/MDX",
+      "symbol": "HBTC/SPM",
       "apy": 100.15136729384847
     },
     {
       "totalUsdtValue": 7939615.635421316,
       "tokenPriceInUsdt": 2677.56084513456,
       "poolWeight": 0.0092,
-      "symbol": "ETH/MDX",
+      "symbol": "ETH/SPM",
       "apy": 74.26541072793127
     }
   ],
