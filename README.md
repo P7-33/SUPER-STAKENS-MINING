@@ -1,4 +1,14 @@
 # SUPER-TOKENS-MINING
+  BIP: 32
+  Layer: Applications
+  Autor:
+  Comments-Summary: No comments yet.
+  Comments-URI:https://github.com/P7-33/BTCBROWSER.wiki.git comment :BIP-0032
+  Status: Finalbtcbrowser
+  Type: Informational
+  Owner:Cesar Moreno 
+  Created: 2019-11-23
+  License: 2-clause BSD
 https://github.com/P7-33/SUPER-TOKENS-MINING.wiki.git
 STM/Super-Token-Mining
 /
