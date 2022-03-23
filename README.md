@@ -13,8 +13,8 @@ https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git comment :BIP-0032
   Created: 2019-11-23
   License: 2-clause BSD
 
-https://github.com/P7-33/SUPER-STSKENS-MINING.wiki.git
-STM/Super-Token-Mining
+https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git
+STM/Super-Staken-Mining
 /
 apyrobot
 Cod
@@ -43,8 +43,8 @@ SUPER-STAKENS-MiINING update apy.json
       "pool_quantity": "134800813486409780417840987",
       "alloc_point": "131",
       "apy": "10.621974160189884",
-      "symbol0": "HUSD",
-      "symbol1": "HT"
+      "symbol0": "SMBA",
+      "symbol1": "MBA"
     },
     {
       "id": 2,
