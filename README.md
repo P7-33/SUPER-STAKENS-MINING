@@ -1,19 +1,5 @@
 # SUPER-STAKENS-MINING
 
-  BIP: 32
-  Layer: Applications
-  Autor:Merker Palatinus
-  Comments-Summary: No comments yet.
-  Comments-URI:
-https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git comment :BIP-0032
-  Status: Active
-  Type: standar
-  Owner:Cesar Moreno
-  <Pathombrowser@gmail.com>
-  Created: 2019-11-23
-  License: 2-clause BSD
-
-https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git
 STM/Super-Staken-Mining
 /
 apyrobot
@@ -30,6 +16,70 @@ Docs
 Insights
 apyrobot/apy.json
 
+  BIP: 32
+  Layer: Applications
+  Autor:Merker Palatinus
+  Comments-Summary: No comments yet.
+  Comments-URI:
+https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git comment :BIP-0032
+  Status: Active
+  Type: standar
+  Owner:Cesar Moreno
+  <Pathombrowser@gmail.com>
+  Created: 2019-11-23
+  License: 2-clause BSD
+
+
+#Process
+New stake pool registration
+Stake pool registrants will provide signed submissions in the form of Github pull requests into this testnet pool registry. Here they will be subject to automated checking for well-formedness and human vetting before being merged to master.
+
+# Stake pool de-registration
+This action does not require any changes to the registry -- the inactive pools are simply ignored.
+
+# Updating existing entries
+Stake pool registrants will provide signed submissions in the form of Github pull requests into this testnet pool registry. Here they will be subject to automated checking for well-formedness and human vetting before being merged to master.
+
+# Semantic content of registry entries
+Each entry contains the following information:
+
+name	necessity	description
+owner	required	subject identifier public key
+name	required	stake pool name
+description	optional	stake pool description
+ticker	required	stake pool ticker
+homepage	required	URL of the stake pool's web page
+pledge_address	required	a pledge address
+-	required	signature (verifiable by the public key)
+⚠️ The owner public key mentioned here must match your owner public key used for registering your stake pool on chain!
+
+Precise entry validity rules are described in the following section.
+
+Submission well-formedness rules
+Submissions shall consist of a single commit, directly off the master branch of the incentivized-testnet-stakepool-registry repository.
+
+Submissions are identified by the subject's Bech32-encoded Ed25519 public key (all lowercase).
+
+Submissions shall either add a new entry or modify one.
+
+Submissions shall involve (addition or modification) of exactly two files, under the registry subdirectory of the repository:
+
+the JSON submission entry file, with the .json extension (lowercase),
+the external signature of the file, with the .sig extension (lowercase).
+The file name part of both files must match the aforementioned encoded owner public key, up to character case (all lowercase).
+
+The external signature file must be a ed25519 signature of the content of the metadata JSON file.
+
+The ticker and owner must be unique in the registry.
+
+Contents of the JSON file:
+
+Must be a JSON object, reasonably (non-offensively) formatted,
+Must satisfy the following
+
+https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git
+STM/Super-Staken-Mining
+apyrobot/apy.json
 SUPER-STAKENS-MiINING update apy.json
 {
   "minging": [
