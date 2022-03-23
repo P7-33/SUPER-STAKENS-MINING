@@ -1,4 +1,4 @@
-# Built application files stakin
+# Built application files staked
 *.apk
 *.aar
 *.ap_
@@ -19,7 +19,7 @@ out/
 
 # Gradle files
 .gradle/
-build/stakin
+build/staked
 
 # Local configuration file (sdk path, etc)
 local.properties
