@@ -1,11 +1,11 @@
-# SUPER-TOKENS-MINING
+# SUPER-STAKENS-MINING
 
   BIP: 32
   Layer: Applications
   Autor:Merker Palatinus
   Comments-Summary: No comments yet.
   Comments-URI:
-https://github.com/P7-33/SUPER-TOKENS-MINING.wiki.git comment :BIP-0032
+https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git comment :BIP-0032
   Status: Active
   Type: standar
   Owner:Cesar Moreno
@@ -13,11 +13,11 @@ https://github.com/P7-33/SUPER-TOKENS-MINING.wiki.git comment :BIP-0032
   Created: 2019-11-23
   License: 2-clause BSD
 
-https://github.com/P7-33/SUPER-TOKENS-MINING.wiki.git
+https://github.com/P7-33/SUPER-STSKENS-MINING.wiki.git
 STM/Super-Token-Mining
 /
 apyrobot
-Code
+Cod
 Issues
 2
 Pull requests
@@ -25,12 +25,12 @@ Actions
 Projects
 Wiki
 Security
+Status
+Docs
 Insights
 apyrobot/apy.json
 
-SUPER-TOKENS-MiINING update apy.json
- 
-404 lines (404 sloc)  12 KB
+SUPER-STAKENS-MiINING update apy.json
 {
   "minging": [
     {
