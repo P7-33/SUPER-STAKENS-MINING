@@ -1,4 +1,4 @@
-# Built application files
+# Built application files stakin
 *.apk
 *.aar
 *.ap_
@@ -15,11 +15,11 @@ bin/
 gen/
 out/
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
-# release/
+# release/stakin
 
 # Gradle files
 .gradle/
-build/
+build/stakin
 
 # Local configuration file (sdk path, etc)
 local.properties
