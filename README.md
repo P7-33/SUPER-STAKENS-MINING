@@ -21,11 +21,9 @@ apyrobot/apy.json
   Autor:Merker Palatinus
   Comments-Summary: No comments yet.
   Comments-URI:
-https://github.com/P7-33/SUPER-STAKENS-MINING.wiki.git comment :BIP-0032
+ comment :BIP-0032
   Status: Active
   Type: standar
-  Owner:Cesar Moreno
-  <Pathombrowser@gmail.com>
   Created: 2019-11-23
   License: 2-clause BSD
 
